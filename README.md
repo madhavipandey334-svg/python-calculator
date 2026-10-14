@@ -1,4 +1,4 @@
-# python-calculator
+# python-Calculator
 My first Python calculator project
 
 ## Features
